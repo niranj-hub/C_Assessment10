@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() 
 {
-    char ch;
+    char a;
     printf("Enter an alphabet:");
-    scanf("%c",&ch);
-    printf("%d",ch);
+    scanf("%c",&a);
+    printf("%d",a);
 }
